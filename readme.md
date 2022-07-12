@@ -1,6 +1,4 @@
 <!doctype html>
-theme: jekyll-theme-hacker
-<!doctype html>
 <html>
   <head>
     <title>Tory Lysik SNL Project/title>
@@ -498,7 +496,6 @@ This data proves that as SNL went on, we appreciated the classic seasons while r
 
 This story was inspired by Kate McKinnon. If you know, you know. 
 <p>
->
     <h1>SNL!</h1>
   </body>
 </html>
